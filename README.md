@@ -1,24 +1,26 @@
-Manan360.com
+Govt. Elementary School 104 ML
 
-Welcome to Manan360.com!
+Welcome to the official website of Govt. Elementary School 104 ML.
 
-Books, Notes & Quality Questions
+Website Features
 
-Manan360.com is an educational platform for students to access study materials, notes, PDF books, quality questions, and application services.
+- First Term Results
+- Classes 1 to 8
+- Student Results by Roll Number
+- Subject-wise Marks
+- Total Marks and Percentage
+- Student Position
+- Print and Save Results as PDF
+- Mobile-Friendly Design
 
-Features
+Hosting
 
-- Student Portal
-- Books and PDF Notes
-- Quality Questions
-- Online Applications
-- Application Tracking
-- Admin and CEO Dashboards
+Hosted free using GitHub Pages.
 
-Website
+Technology
 
-Manan360.com
+- HTML
+- CSS
+- JavaScript
 
-Purpose
-
-To provide students with easy access to educational resources.
+© 2026 Govt. Elementary School 104 ML. All rights reserved.
